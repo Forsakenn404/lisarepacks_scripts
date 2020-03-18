@@ -13,8 +13,12 @@ https://lisarepacks.in/
 - Open script `0_Backup.sh` 
 - Clic on `run` button
 
+![backup](https://i.imgur.com/sEdCpFhm.jpg)
+
 ## How to : RESTORE
 - Close all games !
 - Launch `Shell Script Editor`
 - Open script `1_Restore.sh` 
 - Clic on `run` button
+
+![backup](https://i.imgur.com/OK5kCG8m.jpg)
