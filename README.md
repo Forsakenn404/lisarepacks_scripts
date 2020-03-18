@@ -10,9 +10,11 @@ https://lisarepacks.in/
 
 ## How to : BACKUP
 - Launch `Shell Script Editor`
-- Open script `0_Backup.sh` and clic on `run` button
+- Open script `0_Backup.sh` 
+- Clic on `run` button
 
 ## How to : RESTORE
 - Close all games !
 - Launch `Shell Script Editor`
-- Open script `1_Restore.sh` and clic on `run` button
+- Open script `1_Restore.sh` 
+- Clic on `run` button
